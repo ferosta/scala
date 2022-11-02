@@ -4,6 +4,7 @@
 [debug] Merging files...
 [debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
 [info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
+[debug] SHA-1: b7a8b7c8d4ac581b7d3af54d0ab5548ba393ebe4
 [info] Packaging D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\scala-2.13\untitled-assembly-0.1.0-SNAPSHOT.jar ...
 [debug] Input file mappings:
 [debug] 	LICENSE_scala-library-2.13.10
