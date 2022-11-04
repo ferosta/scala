@@ -8,7 +8,9 @@ object Main {
 //    Task_3d()
 //    Task_3e()
 //    Task_3f()
-    Task_3g()
+//    Task_3g()
+    Task_3h()
+
 
   }
 
@@ -141,14 +143,14 @@ object Main {
       """)
     // исходные значения окладов в отделе
     val Salaries = List[Double](100, 150, 200, 80, 120, 75)
-    println(Salaries + "\t- исходный списко окладов сотрудников.")
+    println(Salaries + "\t- исходный список окладов сотрудников.")
 
     // новые сотрудники в отделе
     val New_Employers_Salaries = List[Double](350, 90)
 
     // добавить новых сотрудников в общий список
     val New_Salaries_List = Salaries.patch(Salaries.size, New_Employers_Salaries,0)
-    println(New_Salaries_List + "- обновленный список окладов")
+    println(New_Salaries_List + "- список окладов с добавленными сотрудниками")
 
     // cортировка списка от меньшего к обольшему
     val New_Salaries_List_Sorted = New_Salaries_List.sorted(Ordering[Double])
@@ -173,6 +175,7 @@ object Main {
     //индекс первого элемента списка, который больше вставляемого элемента
     val Index_To_Insert = Salaries_List_Sorted.indexWhere(x => x > New_Employer_Salary)
 
+    // вставляем в позицию найденного элемента один новый элемент
     val New_Salaries_List_Sorted = Salaries_List_Sorted.patch(Index_To_Insert,List(New_Employer_Salary), 0)
 
     println(New_Salaries_List_Sorted + "- список с новым элементом по-прежнему отсортирован")
@@ -206,5 +209,22 @@ object Main {
 
   }
 
+  def Task_3h()={
+    println(
+      """
+        *************************************************
+        h.Однако наступил кризис и ваши сотрудники требуют повысить зарплату.
+        Вам необходимо проиндексировать зарплату каждого сотрудника на уровень инфляции – 7%
+        """)
+    //исходные данные
+    val Salaries_List_Sorted = Task_3f(false)
+//    println(Salaries_List_Sorted + " - исходный список зарплат")
+    //уровень инфляции
+    val Inflation_Rate = 7.0
+
+    val Crisis_Salaries_List_ = Salaries_List_Sorted.map(x => x*(100 + Inflation_Rate)*0.01).map(x => (x * 100).toInt*0.01)
+    println(Crisis_Salaries_List_ + s" - кризисный список зарплат, инфл.уровень $Inflation_Rate%")
+
+  }
 
 }
