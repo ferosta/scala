@@ -196,11 +196,13 @@ object Main {
     val Middle_Max_Salary: Double = 150
     println(s"Ищем индексы в списке для сотрудников с зарплатами от $Middle_Min_Salary до $Middle_Max_Salary")
 
-    val Middle_Indeces = Salaries_List_Sorted.indexWhere(x => (Middle_Min_Salary <= x) && (x <= Middle_Max_Salary))
-    println(Middle_Indeces + "- индексы искомых сотрудников")
+    // вариант с коллект
+    val Middle_Indexes_v1 = Salaries_List_Sorted.zipWithIndex.collect{ case(elm,indx) if ((Middle_Min_Salary <= elm) && (elm <= Middle_Max_Salary)) => indx }
+    println(Middle_Indexes_v1 + "- индексы искомых сотрудников")
 
-    val Middle_Indecies1 = Salaries_List_Sorted.zipWithIndex.collect{ case(elm,indx) if ((Middle_Min_Salary <= elm) && (elm <= Middle_Max_Salary)) => indx }
-    println(Middle_Indecies1 + "- индексы искомых сотрудников")
+    // вариант с фильтром и мап
+    val Middle_Indexes_v2 = Salaries_List_Sorted.zipWithIndex.filter(x => (Middle_Min_Salary <= x._1) && (x._1 <= Middle_Max_Salary) ).map(x=>x._2)
+    println(Middle_Indexes_v2 + "- индексы искомых сотрудников")
 
   }
 

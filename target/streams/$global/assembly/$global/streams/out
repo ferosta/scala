@@ -4,11 +4,13 @@
 [debug] Merging files...
 [debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
 [info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
-[debug] SHA-1: 260c707f42578a3f26f3425c7245ccaae0b947ac
+[debug] SHA-1: 96175b5ed47dbbc4dc5f3753b430ebe15a840c41
 [info] Packaging D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\scala-2.13\untitled-assembly-0.1.0-SNAPSHOT.jar ...
 [debug] Input file mappings:
 [debug] 	LICENSE_scala-library-2.13.10
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\LICENSE_scala-library-2.13.10
+[debug] 	Main$$anonfun$1.class
+[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\7bc956d333981e06ed548924e83b5d6dc5e48d19_dir\Main$$anonfun$1.class
 [debug] 	Main$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\7bc956d333981e06ed548924e83b5d6dc5e48d19_dir\Main$.class
 [debug] 	Main.class
@@ -37,8 +39,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Array$.class
 [debug] 	scala\Array$ArrayFactory.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Array$ArrayFactory.class
-[debug] 	scala\Array$UnapplySeqWrapper$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Array$UnapplySeqWrapper$.class
 [debug] 	scala\Array$UnapplySeqWrapper.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Array$UnapplySeqWrapper.class
 [debug] 	scala\Array.class
@@ -73,8 +73,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Dynamic.class
 [debug] 	scala\Enumeration$Val.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Enumeration$Val.class
-[debug] 	scala\Enumeration$Value.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Enumeration$Value.class
 [debug] 	scala\Enumeration$ValueOrdering$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Enumeration$ValueOrdering$.class
 [debug] 	scala\Enumeration$ValueSet$$anon$1.class
@@ -119,8 +117,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Function1$.class
 [debug] 	scala\Function1$UnliftOps$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Function1$UnliftOps$.class
-[debug] 	scala\Function1$UnliftOps.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Function1$UnliftOps.class
 [debug] 	scala\Function1$mcDD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Function1$mcDD$sp.class
 [debug] 	scala\Function1$mcDF$sp.class
@@ -359,8 +355,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\PartialFunction$Combined.class
 [debug] 	scala\PartialFunction$ElementWiseExtractor$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\PartialFunction$ElementWiseExtractor$.class
-[debug] 	scala\PartialFunction$ElementWiseExtractor.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\PartialFunction$ElementWiseExtractor.class
 [debug] 	scala\PartialFunction$Lifted.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\PartialFunction$Lifted.class
 [debug] 	scala\PartialFunction$OrElse.class
@@ -377,8 +371,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Predef$ArrowAssoc$.class
 [debug] 	scala\Predef$ArrowAssoc.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Predef$ArrowAssoc.class
-[debug] 	scala\Predef$Ensuring$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Predef$Ensuring$.class
 [debug] 	scala\Predef$Ensuring.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Predef$Ensuring.class
 [debug] 	scala\Predef$SeqCharSequence.class
@@ -411,8 +403,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product1.class
 [debug] 	scala\Product10$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product10$.class
-[debug] 	scala\Product10.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product10.class
 [debug] 	scala\Product11$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product11$.class
 [debug] 	scala\Product11.class
@@ -497,12 +487,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product5.class
 [debug] 	scala\Product6$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product6$.class
-[debug] 	scala\Product6.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product6.class
 [debug] 	scala\Product7$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product7$.class
-[debug] 	scala\Product7.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product7.class
 [debug] 	scala\Product8$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Product8$.class
 [debug] 	scala\Product8.class
@@ -583,8 +569,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Tuple14$.class
 [debug] 	scala\Tuple14.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Tuple14.class
-[debug] 	scala\Tuple15$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Tuple15$.class
 [debug] 	scala\Tuple15.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\Tuple15.class
 [debug] 	scala\Tuple16$.class
@@ -725,8 +709,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\annotation\TypeConstraint.class
 [debug] 	scala\annotation\compileTimeOnly.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\annotation\compileTimeOnly.class
-[debug] 	scala\annotation\elidable$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\annotation\elidable$.class
 [debug] 	scala\annotation\elidable.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\annotation\elidable.class
 [debug] 	scala\annotation\implicitAmbiguous.class
@@ -845,8 +827,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\ArrayOps$ArrayIterator$mcV$sp.class
 [debug] 	scala\collection\ArrayOps$ArrayIterator$mcZ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\ArrayOps$ArrayIterator$mcZ$sp.class
-[debug] 	scala\collection\ArrayOps$ArrayIterator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\ArrayOps$ArrayIterator.class
 [debug] 	scala\collection\ArrayOps$ArrayView.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\ArrayOps$ArrayView.class
 [debug] 	scala\collection\ArrayOps$GroupedIterator.class
@@ -883,12 +863,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BitSet.class
 [debug] 	scala\collection\BitSetOps$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BitSetOps$$anon$1.class
-[debug] 	scala\collection\BitSetOps$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BitSetOps$.class
 [debug] 	scala\collection\BitSetOps.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BitSetOps.class
-[debug] 	scala\collection\BufferedIterator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BufferedIterator.class
 [debug] 	scala\collection\BuildFrom$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\BuildFrom$$anon$1.class
 [debug] 	scala\collection\BuildFrom$$anon$2.class
@@ -953,8 +929,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\EvidenceIterableFactory$Delegate.class
 [debug] 	scala\collection\EvidenceIterableFactory$EvidenceIterableFactoryToBuildFrom.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\EvidenceIterableFactory$EvidenceIterableFactoryToBuildFrom.class
-[debug] 	scala\collection\EvidenceIterableFactory$ToFactory.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\EvidenceIterableFactory$ToFactory.class
 [debug] 	scala\collection\EvidenceIterableFactory.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\EvidenceIterableFactory.class
 [debug] 	scala\collection\EvidenceIterableFactoryDefaults.class
@@ -963,8 +937,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Factory$.class
 [debug] 	scala\collection\Factory$ArrayFactory.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Factory$ArrayFactory.class
-[debug] 	scala\collection\Factory$StringFactory.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Factory$StringFactory.class
 [debug] 	scala\collection\Factory.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Factory.class
 [debug] 	scala\collection\Hashing$.class
@@ -1007,8 +979,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\IndexedSeqView$TakeRight.class
 [debug] 	scala\collection\IndexedSeqView.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\IndexedSeqView.class
-[debug] 	scala\collection\IntStepper$$anon$6.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\IntStepper$$anon$6.class
 [debug] 	scala\collection\IntStepper$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\IntStepper$.class
 [debug] 	scala\collection\IntStepper$IntStepperSpliterator.class
@@ -1067,8 +1037,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\IterableOps.class
 [debug] 	scala\collection\Iterator$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Iterator$$anon$1.class
-[debug] 	scala\collection\Iterator$$anon$10.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Iterator$$anon$10.class
 [debug] 	scala\collection\Iterator$$anon$11.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Iterator$$anon$11.class
 [debug] 	scala\collection\Iterator$$anon$12.class
@@ -1153,16 +1121,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\JavaConverters.class
 [debug] 	scala\collection\LazyZip2$$anon$1$$anon$2.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$1$$anon$2.class
-[debug] 	scala\collection\LazyZip2$$anon$1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$1.class
 [debug] 	scala\collection\LazyZip2$$anon$3$$anon$4.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$3$$anon$4.class
 [debug] 	scala\collection\LazyZip2$$anon$3.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$3.class
 [debug] 	scala\collection\LazyZip2$$anon$5$$anon$6.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$5$$anon$6.class
-[debug] 	scala\collection\LazyZip2$$anon$5.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$5.class
 [debug] 	scala\collection\LazyZip2$$anon$7$$anon$8.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\LazyZip2$$anon$7$$anon$8.class
 [debug] 	scala\collection\LazyZip2$$anon$7.class
@@ -1253,16 +1217,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps$$anon$3.class
 [debug] 	scala\collection\MapOps$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps$.class
-[debug] 	scala\collection\MapOps$GenKeySet.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps$GenKeySet.class
 [debug] 	scala\collection\MapOps$KeySet.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps$KeySet.class
 [debug] 	scala\collection\MapOps$WithFilter.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps$WithFilter.class
 [debug] 	scala\collection\MapOps.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapOps.class
-[debug] 	scala\collection\MapView$$anon$1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapView$$anon$1.class
 [debug] 	scala\collection\MapView$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\MapView$.class
 [debug] 	scala\collection\MapView$Filter.class
@@ -1291,8 +1251,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Searching$Found.class
 [debug] 	scala\collection\Searching$InsertionPoint$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Searching$InsertionPoint$.class
-[debug] 	scala\collection\Searching$InsertionPoint.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Searching$InsertionPoint.class
 [debug] 	scala\collection\Searching$SearchImpl$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\Searching$SearchImpl$.class
 [debug] 	scala\collection\Searching$SearchImpl.class
@@ -1381,8 +1339,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMap$.class
 [debug] 	scala\collection\SortedMap.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMap.class
-[debug] 	scala\collection\SortedMapFactory$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapFactory$.class
 [debug] 	scala\collection\SortedMapFactory$Delegate.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapFactory$Delegate.class
 [debug] 	scala\collection\SortedMapFactory$SortedMapFactoryToBuildFrom.class
@@ -1395,8 +1351,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapFactoryDefaults.class
 [debug] 	scala\collection\SortedMapOps$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapOps$.class
-[debug] 	scala\collection\SortedMapOps$GenKeySortedSet.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapOps$GenKeySortedSet.class
 [debug] 	scala\collection\SortedMapOps$KeySortedSet.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\SortedMapOps$KeySortedSet.class
 [debug] 	scala\collection\SortedMapOps$WithFilter.class
@@ -1453,8 +1407,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StepperShape$$anon$1.class
 [debug] 	scala\collection\StepperShape$$anon$11$$anon$12.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StepperShape$$anon$11$$anon$12.class
-[debug] 	scala\collection\StepperShape$$anon$11.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StepperShape$$anon$11.class
 [debug] 	scala\collection\StepperShape$$anon$13$$anon$14.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StepperShape$$anon$13$$anon$14.class
 [debug] 	scala\collection\StepperShape$$anon$13.class
@@ -1495,8 +1447,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StrictOptimizedIterableOps.class
 [debug] 	scala\collection\StrictOptimizedLinearSeqOps$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StrictOptimizedLinearSeqOps$$anon$1.class
-[debug] 	scala\collection\StrictOptimizedLinearSeqOps.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StrictOptimizedLinearSeqOps.class
 [debug] 	scala\collection\StrictOptimizedMapOps.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\StrictOptimizedMapOps.class
 [debug] 	scala\collection\StrictOptimizedSeqFactory.class
@@ -1543,8 +1493,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Concat.class
 [debug] 	scala\collection\View$DistinctBy.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$DistinctBy.class
-[debug] 	scala\collection\View$Drop.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Drop.class
 [debug] 	scala\collection\View$DropRight.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$DropRight.class
 [debug] 	scala\collection\View$DropRightIterator.class
@@ -1581,8 +1529,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$RightPartitionMapped$$anon$3.class
 [debug] 	scala\collection\View$RightPartitionMapped.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$RightPartitionMapped.class
-[debug] 	scala\collection\View$ScanLeft.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$ScanLeft.class
 [debug] 	scala\collection\View$Single.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Single.class
 [debug] 	scala\collection\View$Tabulate.class
@@ -1601,16 +1547,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Updated$$anon$4.class
 [debug] 	scala\collection\View$Updated.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Updated.class
-[debug] 	scala\collection\View$Zip.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$Zip.class
 [debug] 	scala\collection\View$ZipAll.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$ZipAll.class
 [debug] 	scala\collection\View$ZipWithIndex.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View$ZipWithIndex.class
 [debug] 	scala\collection\View.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\View.class
-[debug] 	scala\collection\WithFilter.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\WithFilter.class
 [debug] 	scala\collection\concurrent\BasicNode.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\concurrent\BasicNode.class
 [debug] 	scala\collection\concurrent\CNode$.class
@@ -1641,8 +1583,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\concurrent\RDCSS_Descriptor$.class
 [debug] 	scala\collection\concurrent\RDCSS_Descriptor.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\concurrent\RDCSS_Descriptor.class
-[debug] 	scala\collection\concurrent\SNode.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\concurrent\SNode.class
 [debug] 	scala\collection\concurrent\TNode.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\concurrent\TNode.class
 [debug] 	scala\collection\concurrent\TrieMap$.class
@@ -2041,12 +1981,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsMap.class
 [debug] 	scala\collection\generic\IsSeq$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsSeq$$anon$1.class
-[debug] 	scala\collection\generic\IsSeq$$anon$2.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsSeq$$anon$2.class
 [debug] 	scala\collection\generic\IsSeq$$anon$3$$anon$4.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsSeq$$anon$3$$anon$4.class
-[debug] 	scala\collection\generic\IsSeq$$anon$3.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsSeq$$anon$3.class
 [debug] 	scala\collection\generic\IsSeq$$anon$5.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\generic\IsSeq$$anon$5.class
 [debug] 	scala\collection\generic\IsSeq$$anon$6$$anon$7.class
@@ -2109,8 +2045,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\BigVector.class
 [debug] 	scala\collection\immutable\BitSet$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\BitSet$.class
-[debug] 	scala\collection\immutable\BitSet$BitSet1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\BitSet$BitSet1.class
 [debug] 	scala\collection\immutable\BitSet$BitSet2.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\BitSet$BitSet2.class
 [debug] 	scala\collection\immutable\BitSet$BitSetN.class
@@ -2133,8 +2067,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\HashCollisionMapNode.class
 [debug] 	scala\collection\immutable\HashCollisionSetNode.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\HashCollisionSetNode.class
-[debug] 	scala\collection\immutable\HashMap$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\HashMap$.class
 [debug] 	scala\collection\immutable\HashMap$HashKeySet.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\HashMap$HashKeySet.class
 [debug] 	scala\collection\immutable\HashMap$accum$1.class
@@ -2185,10 +2117,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\IntMap$ToFactory$.class
 [debug] 	scala\collection\immutable\IntMap.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\IntMap.class
-[debug] 	scala\collection\immutable\IntMapEntryIterator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\IntMapEntryIterator.class
-[debug] 	scala\collection\immutable\IntMapIterator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\IntMapIterator.class
 [debug] 	scala\collection\immutable\IntMapKeyIterator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\IntMapKeyIterator.class
 [debug] 	scala\collection\immutable\IntMapUtils$.class
@@ -2261,8 +2189,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListMap.class
 [debug] 	scala\collection\immutable\ListMapBuilder.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListMapBuilder.class
-[debug] 	scala\collection\immutable\ListSet$$anon$1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListSet$$anon$1.class
 [debug] 	scala\collection\immutable\ListSet$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListSet$.class
 [debug] 	scala\collection\immutable\ListSet$EmptyListSet$.class
@@ -2271,8 +2197,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListSet$Node.class
 [debug] 	scala\collection\immutable\ListSet.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\ListSet.class
-[debug] 	scala\collection\immutable\LongMap$$anon$1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$$anon$1.class
 [debug] 	scala\collection\immutable\LongMap$$anon$2.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$$anon$2.class
 [debug] 	scala\collection\immutable\LongMap$.class
@@ -2283,10 +2207,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$Bin.class
 [debug] 	scala\collection\immutable\LongMap$Nil$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$Nil$.class
-[debug] 	scala\collection\immutable\LongMap$Tip$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$Tip$.class
-[debug] 	scala\collection\immutable\LongMap$Tip.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$Tip.class
 [debug] 	scala\collection\immutable\LongMap$ToBuildFrom$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\LongMap$ToBuildFrom$.class
 [debug] 	scala\collection\immutable\LongMap$ToFactory$.class
@@ -2421,8 +2341,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\Range$Partial.class
 [debug] 	scala\collection\immutable\Range.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\Range.class
-[debug] 	scala\collection\immutable\RangeIterator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RangeIterator.class
 [debug] 	scala\collection\immutable\RedBlackTree$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RedBlackTree$.class
 [debug] 	scala\collection\immutable\RedBlackTree$EntriesIterator.class
@@ -2443,8 +2361,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RedBlackTree$TreeIterator.class
 [debug] 	scala\collection\immutable\RedBlackTree$ValuesIterator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RedBlackTree$ValuesIterator.class
-[debug] 	scala\collection\immutable\RedBlackTree$partitioner$1$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RedBlackTree$partitioner$1$.class
 [debug] 	scala\collection\immutable\RedBlackTree.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\immutable\RedBlackTree.class
 [debug] 	scala\collection\immutable\Seq$.class
@@ -2729,8 +2645,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArrayBuilder$ofInt.class
 [debug] 	scala\collection\mutable\ArrayBuilder$ofLong.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArrayBuilder$ofLong.class
-[debug] 	scala\collection\mutable\ArrayBuilder$ofRef.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArrayBuilder$ofRef.class
 [debug] 	scala\collection\mutable\ArrayBuilder$ofShort.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArrayBuilder$ofShort.class
 [debug] 	scala\collection\mutable\ArrayBuilder$ofUnit.class
@@ -2757,8 +2671,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArraySeq$ofDouble.class
 [debug] 	scala\collection\mutable\ArraySeq$ofFloat.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArraySeq$ofFloat.class
-[debug] 	scala\collection\mutable\ArraySeq$ofInt.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArraySeq$ofInt.class
 [debug] 	scala\collection\mutable\ArraySeq$ofLong.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\ArraySeq$ofLong.class
 [debug] 	scala\collection\mutable\ArraySeq$ofRef.class
@@ -2861,8 +2773,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\HashMap$$anon$5.class
 [debug] 	scala\collection\mutable\HashMap$$anon$6.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\HashMap$$anon$6.class
-[debug] 	scala\collection\mutable\HashMap$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\HashMap$.class
 [debug] 	scala\collection\mutable\HashMap$DeserializationFactory.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\HashMap$DeserializationFactory.class
 [debug] 	scala\collection\mutable\HashMap$HashMapIterator.class
@@ -2967,8 +2877,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\Map.class
 [debug] 	scala\collection\mutable\MapOps.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\MapOps.class
-[debug] 	scala\collection\mutable\MultiMap.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\MultiMap.class
 [debug] 	scala\collection\mutable\MutationTracker$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\MutationTracker$.class
 [debug] 	scala\collection\mutable\MutationTracker$CheckedIterator.class
@@ -3033,8 +2941,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\SeqMap$.class
 [debug] 	scala\collection\mutable\SeqMap.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\SeqMap.class
-[debug] 	scala\collection\mutable\SeqOps.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\SeqOps.class
 [debug] 	scala\collection\mutable\Set$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\Set$.class
 [debug] 	scala\collection\mutable\Set.class
@@ -3065,8 +2971,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\StringBuilder$.class
 [debug] 	scala\collection\mutable\StringBuilder.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\StringBuilder.class
-[debug] 	scala\collection\mutable\TreeMap$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\TreeMap$.class
 [debug] 	scala\collection\mutable\TreeMap$TreeMapProjection.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\TreeMap$TreeMapProjection.class
 [debug] 	scala\collection\mutable\TreeMap.class
@@ -3089,8 +2993,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\UnrolledBuffer$Unrolled.class
 [debug] 	scala\collection\mutable\UnrolledBuffer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\UnrolledBuffer.class
-[debug] 	scala\collection\mutable\WeakHashMap$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\WeakHashMap$.class
 [debug] 	scala\collection\mutable\WeakHashMap.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\collection\mutable\WeakHashMap.class
 [debug] 	scala\collection\mutable\package$.class
@@ -3121,8 +3023,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\Awaitable.class
 [debug] 	scala\concurrent\Batchable.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\Batchable.class
-[debug] 	scala\concurrent\BatchingExecutor$AbstractBatch.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\BatchingExecutor$AbstractBatch.class
 [debug] 	scala\concurrent\BatchingExecutor$AsyncBatch.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\BatchingExecutor$AsyncBatch.class
 [debug] 	scala\concurrent\BatchingExecutor$SyncBatch.class
@@ -3155,8 +3055,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\ExecutionContext$.class
 [debug] 	scala\concurrent\ExecutionContext$Implicits$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\ExecutionContext$Implicits$.class
-[debug] 	scala\concurrent\ExecutionContext$parasitic$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\ExecutionContext$parasitic$.class
 [debug] 	scala\concurrent\ExecutionContext.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\ExecutionContext.class
 [debug] 	scala\concurrent\ExecutionContextExecutor.class
@@ -3273,8 +3171,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\ExecutionContextImpl$DefaultThreadFactory$$anon$1$$anon$2.class
 [debug] 	scala\concurrent\impl\ExecutionContextImpl$DefaultThreadFactory$$anon$1.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\ExecutionContextImpl$DefaultThreadFactory$$anon$1.class
-[debug] 	scala\concurrent\impl\ExecutionContextImpl$DefaultThreadFactory.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\ExecutionContextImpl$DefaultThreadFactory.class
 [debug] 	scala\concurrent\impl\ExecutionContextImpl.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\ExecutionContextImpl.class
 [debug] 	scala\concurrent\impl\FutureConvertersImpl$.class
@@ -3283,8 +3179,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\FutureConvertersImpl$CF.class
 [debug] 	scala\concurrent\impl\FutureConvertersImpl$P.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\FutureConvertersImpl$P.class
-[debug] 	scala\concurrent\impl\FutureConvertersImpl.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\FutureConvertersImpl.class
 [debug] 	scala\concurrent\impl\Promise$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\concurrent\impl\Promise$.class
 [debug] 	scala\concurrent\impl\Promise$Callbacks.class
@@ -3405,8 +3299,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\DoubleAccumulator$SerializationProxy.class
 [debug] 	scala\jdk\DoubleAccumulator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\DoubleAccumulator.class
-[debug] 	scala\jdk\DoubleAccumulatorStepper$$anon$1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\DoubleAccumulatorStepper$$anon$1.class
 [debug] 	scala\jdk\DoubleAccumulatorStepper.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\DoubleAccumulatorStepper.class
 [debug] 	scala\jdk\DurationConverters$.class
@@ -3427,8 +3319,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionConverters.class
 [debug] 	scala\jdk\FunctionWrappers$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaBiConsumer$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaBiConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaBiConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaBiConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaBiFunction$.class
@@ -3447,8 +3337,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaBooleanSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaBooleanSupplier.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaBooleanSupplier.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaConsumer$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleBinaryOperator$.class
@@ -3459,18 +3347,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleConsumer.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleFunction$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleFunction$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleFunction.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleFunction.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoublePredicate$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoublePredicate$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoublePredicate.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoublePredicate.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleSupplier$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleSupplier$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleSupplier.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleToIntFunction$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleToIntFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleToIntFunction.class
@@ -3481,10 +3363,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleToLongFunction.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleUnaryOperator$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleUnaryOperator$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaDoubleUnaryOperator.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaDoubleUnaryOperator.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaFunction$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaFunction.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntBinaryOperator$.class
@@ -3493,8 +3371,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntBinaryOperator.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntConsumer$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntConsumer$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaIntConsumer.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntFunction$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntFunction.class
@@ -3509,8 +3385,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntToDoubleFunction$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntToDoubleFunction$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaIntToDoubleFunction.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntToDoubleFunction.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntToLongFunction$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaIntToLongFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaIntToLongFunction.class
@@ -3529,8 +3403,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaLongConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaLongFunction$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaLongFunction$.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaLongFunction.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaLongFunction.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaLongPredicate$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaLongPredicate$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaLongPredicate.class
@@ -3555,8 +3427,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaObjDoubleConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaObjDoubleConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaObjDoubleConsumer.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaObjIntConsumer$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaObjIntConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaObjIntConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaObjIntConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaObjLongConsumer$.class
@@ -3567,8 +3437,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaPredicate$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaPredicate.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaPredicate.class
-[debug] 	scala\jdk\FunctionWrappers$AsJavaSupplier$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaSupplier.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$AsJavaSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$AsJavaToDoubleBiFunction$.class
@@ -3619,8 +3487,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaBooleanSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaBooleanSupplier.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaBooleanSupplier.class
-[debug] 	scala\jdk\FunctionWrappers$FromJavaConsumer$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaConsumer.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaDoubleBinaryOperator$.class
@@ -3667,8 +3533,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaIntConsumer$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaIntConsumer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaIntConsumer.class
-[debug] 	scala\jdk\FunctionWrappers$FromJavaIntFunction$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaIntFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaIntFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaIntFunction.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaIntPredicate$.class
@@ -3739,8 +3603,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaPredicate$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaPredicate.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaPredicate.class
-[debug] 	scala\jdk\FunctionWrappers$FromJavaSupplier$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaSupplier.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaToDoubleBiFunction$.class
@@ -3763,8 +3625,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaToLongBiFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaToLongBiFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaToLongBiFunction.class
-[debug] 	scala\jdk\FunctionWrappers$FromJavaToLongFunction$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaToLongFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaToLongFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$FromJavaToLongFunction.class
 [debug] 	scala\jdk\FunctionWrappers$FromJavaUnaryOperator$.class
@@ -3793,8 +3653,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichBooleanSupplierAsFunction0.class
 [debug] 	scala\jdk\FunctionWrappers$RichConsumerAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichConsumerAsFunction1$.class
-[debug] 	scala\jdk\FunctionWrappers$RichConsumerAsFunction1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichConsumerAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichDoubleBinaryOperatorAsFunction2$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoubleBinaryOperatorAsFunction2$.class
 [debug] 	scala\jdk\FunctionWrappers$RichDoubleBinaryOperatorAsFunction2.class
@@ -3813,8 +3671,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoublePredicateAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichDoubleSupplierAsFunction0$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoubleSupplierAsFunction0$.class
-[debug] 	scala\jdk\FunctionWrappers$RichDoubleSupplierAsFunction0.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoubleSupplierAsFunction0.class
 [debug] 	scala\jdk\FunctionWrappers$RichDoubleToIntFunctionAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoubleToIntFunctionAsFunction1$.class
 [debug] 	scala\jdk\FunctionWrappers$RichDoubleToIntFunctionAsFunction1.class
@@ -3829,10 +3685,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichDoubleUnaryOperatorAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsBooleanSupplier$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsBooleanSupplier$.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction0AsBooleanSupplier.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsBooleanSupplier.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction0AsDoubleSupplier$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsDoubleSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsDoubleSupplier.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsDoubleSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsIntSupplier$.class
@@ -3841,8 +3693,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsIntSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsLongSupplier$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsLongSupplier$.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction0AsLongSupplier.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsLongSupplier.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsSupplier$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction0AsSupplier$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction0AsSupplier.class
@@ -3871,8 +3721,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsDoubleToLongFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsDoubleToLongFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsDoubleToLongFunction.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction1AsDoubleUnaryOperator$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsDoubleUnaryOperator$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsDoubleUnaryOperator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsDoubleUnaryOperator.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsFunction$.class
@@ -3899,8 +3747,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsIntToLongFunction$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsIntToLongFunction.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsIntToLongFunction.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction1AsIntUnaryOperator$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsIntUnaryOperator$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsIntUnaryOperator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction1AsIntUnaryOperator.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction1AsLongConsumer$.class
@@ -3963,12 +3809,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsBinaryOperator$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction2AsBinaryOperator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsBinaryOperator.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction2AsDoubleBinaryOperator$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsDoubleBinaryOperator$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction2AsDoubleBinaryOperator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsDoubleBinaryOperator.class
-[debug] 	scala\jdk\FunctionWrappers$RichFunction2AsIntBinaryOperator$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsIntBinaryOperator$.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction2AsIntBinaryOperator.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunction2AsIntBinaryOperator.class
 [debug] 	scala\jdk\FunctionWrappers$RichFunction2AsLongBinaryOperator$.class
@@ -4005,12 +3847,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichFunctionAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichIntBinaryOperatorAsFunction2$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichIntBinaryOperatorAsFunction2$.class
-[debug] 	scala\jdk\FunctionWrappers$RichIntBinaryOperatorAsFunction2.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichIntBinaryOperatorAsFunction2.class
 [debug] 	scala\jdk\FunctionWrappers$RichIntConsumerAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichIntConsumerAsFunction1$.class
-[debug] 	scala\jdk\FunctionWrappers$RichIntConsumerAsFunction1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichIntConsumerAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichIntFunctionAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichIntFunctionAsFunction1$.class
 [debug] 	scala\jdk\FunctionWrappers$RichIntFunctionAsFunction1.class
@@ -4057,12 +3895,8 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongSupplierAsFunction0.class
 [debug] 	scala\jdk\FunctionWrappers$RichLongToDoubleFunctionAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongToDoubleFunctionAsFunction1$.class
-[debug] 	scala\jdk\FunctionWrappers$RichLongToDoubleFunctionAsFunction1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongToDoubleFunctionAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichLongToIntFunctionAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongToIntFunctionAsFunction1$.class
-[debug] 	scala\jdk\FunctionWrappers$RichLongToIntFunctionAsFunction1.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongToIntFunctionAsFunction1.class
 [debug] 	scala\jdk\FunctionWrappers$RichLongUnaryOperatorAsFunction1$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers$RichLongUnaryOperatorAsFunction1$.class
 [debug] 	scala\jdk\FunctionWrappers$RichLongUnaryOperatorAsFunction1.class
@@ -4119,10 +3953,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FunctionWrappers.class
 [debug] 	scala\jdk\FutureConverters$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FutureConverters$.class
-[debug] 	scala\jdk\FutureConverters$CompletionStageOps$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FutureConverters$CompletionStageOps$.class
-[debug] 	scala\jdk\FutureConverters$CompletionStageOps.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FutureConverters$CompletionStageOps.class
 [debug] 	scala\jdk\FutureConverters$FutureOps$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\jdk\FutureConverters$FutureOps$.class
 [debug] 	scala\jdk\FutureConverters$FutureOps.class
@@ -4265,8 +4095,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\languageFeature.class
 [debug] 	scala\math\BigDecimal$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\BigDecimal$.class
-[debug] 	scala\math\BigDecimal$RoundingMode$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\BigDecimal$RoundingMode$.class
 [debug] 	scala\math\BigDecimal.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\BigDecimal.class
 [debug] 	scala\math\BigInt$.class
@@ -4315,8 +4143,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Implicits$.class
 [debug] 	scala\math\Equiv$Int$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Int$.class
-[debug] 	scala\math\Equiv$IterableEquiv.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$IterableEquiv.class
 [debug] 	scala\math\Equiv$Long$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Long$.class
 [debug] 	scala\math\Equiv$OptionEquiv.class
@@ -4331,10 +4157,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Tuple2Equiv.class
 [debug] 	scala\math\Equiv$Tuple3Equiv.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Tuple3Equiv.class
-[debug] 	scala\math\Equiv$Tuple4Equiv.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Tuple4Equiv.class
-[debug] 	scala\math\Equiv$Tuple5Equiv.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Tuple5Equiv.class
 [debug] 	scala\math\Equiv$Tuple6Equiv.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Equiv$Tuple6Equiv.class
 [debug] 	scala\math\Equiv$Tuple7Equiv.class
@@ -4509,8 +4331,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Ordering$O$1.class
 [debug] 	scala\math\Ordering$OptionOrdering.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Ordering$OptionOrdering.class
-[debug] 	scala\math\Ordering$OrderingOps.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Ordering$OrderingOps.class
 [debug] 	scala\math\Ordering$Reverse.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\math\Ordering$Reverse.class
 [debug] 	scala\math\Ordering$Short$.class
@@ -4663,8 +4483,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\reflect\ManifestFactory$ShortManifest.class
 [debug] 	scala\reflect\ManifestFactory$SingletonTypeManifest.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\reflect\ManifestFactory$SingletonTypeManifest.class
-[debug] 	scala\reflect\ManifestFactory$UnitManifest.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\reflect\ManifestFactory$UnitManifest.class
 [debug] 	scala\reflect\ManifestFactory$WildcardManifest.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\reflect\ManifestFactory$WildcardManifest.class
 [debug] 	scala\reflect\ManifestFactory.class
@@ -4895,16 +4713,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction20.class
 [debug] 	scala\runtime\AbstractFunction21.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction21.class
-[debug] 	scala\runtime\AbstractFunction22.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction22.class
 [debug] 	scala\runtime\AbstractFunction3.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction3.class
 [debug] 	scala\runtime\AbstractFunction4.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction4.class
 [debug] 	scala\runtime\AbstractFunction5.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction5.class
-[debug] 	scala\runtime\AbstractFunction6.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction6.class
 [debug] 	scala\runtime\AbstractFunction7.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\AbstractFunction7.class
 [debug] 	scala\runtime\AbstractFunction8.class
@@ -4981,8 +4795,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\ClassValueCompat$FallbackClassValue.class
 [debug] 	scala\runtime\ClassValueCompat$JavaClassValue.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\ClassValueCompat$JavaClassValue.class
-[debug] 	scala\runtime\ClassValueCompat.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\ClassValueCompat.class
 [debug] 	scala\runtime\DoubleRef.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\DoubleRef.class
 [debug] 	scala\runtime\EmptyMethodCache.class
@@ -5003,16 +4815,10 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LambdaDeserializer$.class
 [debug] 	scala\runtime\LambdaDeserializer.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LambdaDeserializer.class
-[debug] 	scala\runtime\LazyBoolean.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyBoolean.class
 [debug] 	scala\runtime\LazyByte.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyByte.class
-[debug] 	scala\runtime\LazyChar.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyChar.class
 [debug] 	scala\runtime\LazyDouble.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyDouble.class
-[debug] 	scala\runtime\LazyFloat.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyFloat.class
 [debug] 	scala\runtime\LazyInt.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\LazyInt.class
 [debug] 	scala\runtime\LazyLong.class
@@ -5055,8 +4861,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\NonLocalReturnControl$mcV$sp.class
 [debug] 	scala\runtime\NonLocalReturnControl$mcZ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\NonLocalReturnControl$mcZ$sp.class
-[debug] 	scala\runtime\NonLocalReturnControl.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\NonLocalReturnControl.class
 [debug] 	scala\runtime\Nothing$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\Nothing$.class
 [debug] 	scala\runtime\Null$.class
@@ -5199,16 +5003,10 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcDF$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcDI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcDI$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcDJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcDJ$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcFD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcFD$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcFF$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcFF$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcFI$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcFI$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcFJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcFJ$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcID$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcID$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcIF$sp.class
@@ -5221,20 +5019,12 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcJD$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcJF$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcJF$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcJI$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcJI$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcJJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcJJ$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcVD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcVD$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcVF$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcVF$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcVI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcVI$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcVJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcVJ$sp.class
-[debug] 	scala\runtime\java8\JFunction1$mcZD$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcZD$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcZF$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction1$mcZF$sp.class
 [debug] 	scala\runtime\java8\JFunction1$mcZI$sp.class
@@ -5247,20 +5037,14 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDDI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcDDJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDDJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcDID$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDID$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcDII$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDII$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcDIJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDIJ$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcDJD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDJD$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcDJI$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDJI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcDJJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcDJJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcFDD$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcFDD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcFDI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcFDI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcFDJ$sp.class
@@ -5297,42 +5081,22 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcIJJ$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcJDD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJDD$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJDI$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJDI$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJDJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJDJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJID$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJID$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJII$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJII$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJIJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJIJ$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcJJD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJJD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcJJI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJJI$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcJJJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcJJJ$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVDD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVDD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVDI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVDI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVDJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVDJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcVID$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVID$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcVII$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVII$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVIJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVIJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcVJD$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVJD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVJI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVJI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcVJJ$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcVJJ$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcZDD$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZDD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcZDI$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZDI$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcZDJ$sp.class
@@ -5341,8 +5105,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZID$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcZII$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZII$sp.class
-[debug] 	scala\runtime\java8\JFunction2$mcZIJ$sp.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZIJ$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcZJD$sp.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\runtime\java8\JFunction2$mcZJD$sp.class
 [debug] 	scala\runtime\java8\JFunction2$mcZJI$sp.class
@@ -5435,8 +5197,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilder$FileBuilder.class
 [debug] 	scala\sys\process\ProcessBuilder$Sink.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilder$Sink.class
-[debug] 	scala\sys\process\ProcessBuilder$Source.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilder$Source.class
 [debug] 	scala\sys\process\ProcessBuilder$URLBuilder.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilder$URLBuilder.class
 [debug] 	scala\sys\process\ProcessBuilder.class
@@ -5469,8 +5229,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilderImpl$OStreamBuilder$$anonfun$$lessinit$greater$4.class
 [debug] 	scala\sys\process\ProcessBuilderImpl$OStreamBuilder.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilderImpl$OStreamBuilder.class
-[debug] 	scala\sys\process\ProcessBuilderImpl$OrBuilder.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilderImpl$OrBuilder.class
 [debug] 	scala\sys\process\ProcessBuilderImpl$PipedBuilder.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessBuilderImpl$PipedBuilder.class
 [debug] 	scala\sys\process\ProcessBuilderImpl$SequenceBuilder.class
@@ -5501,8 +5259,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessImpl$BasicProcess.class
 [debug] 	scala\sys\process\ProcessImpl$CompoundProcess.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessImpl$CompoundProcess.class
-[debug] 	scala\sys\process\ProcessImpl$DummyProcess.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessImpl$DummyProcess.class
 [debug] 	scala\sys\process\ProcessImpl$Future$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\sys\process\ProcessImpl$Future$.class
 [debug] 	scala\sys\process\ProcessImpl$OrProcess$$anonfun$$lessinit$greater$2.class
@@ -5671,8 +5427,6 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\Exception$Catch.class
 [debug] 	scala\util\control\Exception$Described.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\Exception$Described.class
-[debug] 	scala\util\control\Exception$Finally.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\Exception$Finally.class
 [debug] 	scala\util\control\Exception.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\Exception.class
 [debug] 	scala\util\control\NoStackTrace$.class
@@ -5687,14 +5441,10 @@
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$.class
 [debug] 	scala\util\control\TailCalls$Call$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Call$.class
-[debug] 	scala\util\control\TailCalls$Call.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Call.class
 [debug] 	scala\util\control\TailCalls$Cont$.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Cont$.class
 [debug] 	scala\util\control\TailCalls$Cont.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Cont.class
-[debug] 	scala\util\control\TailCalls$Done$.class
-[debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Done$.class
 [debug] 	scala\util\control\TailCalls$Done.class
 [debug] 	  D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\streams\$global\assemblyOption\$global\streams\assembly\91321ba6236bf16eba5a5c8697ffd2319473da10_67c1afabaea9ba51321159e70a78515647e1b73d_da39a3ee5e6b4b0d3255bfef95601890afd80709\scala\util\control\TailCalls$Done.class
 [debug] 	scala\util\control\TailCalls$TailRec.class
