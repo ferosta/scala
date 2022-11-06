@@ -10,7 +10,9 @@ object Main {
 //    Task_3f()
 //    Task_3g()
 //    Task_3h()
-    Task_3i()
+//    Task_3i_star()
+//      Task_3k_star()
+      Task_3l_star()
 
 
   }
@@ -228,7 +230,7 @@ object Main {
 
   }
 
-  def Task_3i(): Unit = {
+  def Task_3i_star(): Unit = {
     println(
       """
         *************************************************
@@ -280,6 +282,36 @@ object Main {
 
   }
 
+  def Task_3k_star(Print_Task_Text : Boolean = true): Map[(String, String), Double] = {
+    if (Print_Task_Text)  println(
+      """
+      *************************************************
+      k. *Попробуйте деанонимизировать ваших сотрудников – составьте структуру, которая позволит
+      иметь знания о том, сколько зарабатывает каждый сотрудник(Фамилия и имя).""")
+    val Second_Names = List[String]("Иванов","Петров","Сидорова","Айзеншпис","Кох","Цыбуля","Гогиберидзе","Юняускас","Бек","Тарасюк")
+    val Names = List[String]("Вася","Коля","Ася","Ли","Алэн","Ныкола","Вики","Арно","Изя","Петро")
+    val Full_Names = Second_Names zip Names
+    val Salaries = List[Double](100.0, 150.0, 200.0, 80.0, 120.0, 75.0, 50.0, 120.0, 90.0, 180.0)
+    val Workers = (Full_Names zip Salaries).toMap
+    println(Workers + "\t- сотрудники с зарплатами.")
+    return Workers
+  }
+
+  def Task_3l_star(Print_Task_Text : Boolean = true): Unit = {
+    println(
+      """
+    *************************************************
+    l.*Выведите фамилию и имя сотрудников с самой высокой и самой низкой зарплатой(только не рассказывайте им об этом факте).""")
+
+    val Workers = Task_3k_star(Print_Task_Text = false)
+
+    val Max_Salary_Worker = Workers.toList.maxBy(_._2)._1.toString().replaceAll("""[()]""","").replace(","," ")
+    val Min_Salary_Worker = Workers.toList.minBy(_._2)._1.toString().replaceAll("""[()]""","").replace(","," ")
+
+    println(Max_Salary_Worker +"\t- работник с самой высокой зарплатой")
+    println(Min_Salary_Worker +"\t- работник с самой низкой зарплатой")
+
+  }
 
 
 }
