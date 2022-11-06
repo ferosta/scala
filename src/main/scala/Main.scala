@@ -1,25 +1,32 @@
+import scala.annotation.tailrec
 import scala.io.StdIn
 
 object Main {
   def main(args: Array[String]): Unit = {
-//        Task_3a();
-    //    Task_3b();
-    //    Task_3c(true, true)
-    //    Task_3d()
-    //    Task_3e()
-    //    Task_3f()
-    //    Task_3g()
-    //    Task_3h()
-    //    Task_3i_star()
-    //      Task_3k_star()
-    //      Task_3l_star()
-//    Task_3m_star()
-//    Task_3n_star()
-    Task_3o_star()
-
+    Task_3a()
+    Task_3b()
+    Task_3c(Read_Data_From_Keyboard = false)
+    Task_3d()
+    Task_3e()
+    Task_3f()
+    Task_3g()
+    Task_3h()
+    Task_3i_star()
+    Task_3k_star()
+    Task_3l_star()
+    Task_3m_star()
+    Task_3n_star()
+    Task_3oi_star()
+    Task_3oii_2stars()
 
   }
 
+  /** Решение задачи 3а из модуля 2.2.
+   * Параметры для модификации под условия задачи 3n
+   * @param Scala - кого будем приветствовать (на англ и на русском)
+   * @param ByBy_String - чем будем завершать приветствие
+   * @param Print_Task_Text - надо ли печатать текст задания
+   */
   def Task_3a(Scala:(String,String)=("Scala","Скала"), ByBy_String:String = "И ты, Питон :)", Print_Task_Text : Boolean = true): Unit = {
     if (Print_Task_Text) println(
       """
@@ -275,13 +282,13 @@ object Main {
     //средние по группам для имеющихся зарплат
     val Avg_Salaries_by_Stages = Salaries_by_Stages.map(x => x.sum / x.length).map(x => (100.0 * x).toInt * 0.01)
     println(Avg_Salaries_by_Stages + "- средние зарплаты в отделе по уровню работников")
-    val Inflation_Ratio_for_Stages = Avg_Salaries_by_Stages.zip(Avg).map(x => x._1 / x._2).map(x => ((100.0 * x).toInt * 0.01)).toList
+    val Inflation_Ratio_for_Stages = Avg_Salaries_by_Stages.zip(Avg).map(x => x._1 / x._2).map(x => (100.0 * x).toInt * 0.01).toList
     println(Inflation_Ratio_for_Stages + "- коэффициенты для групп работников")
 
     val Inflation_Ratio_for_Employers = Employers_Stages_Numbers.zipWithIndex.map(x => Inflation_Ratio_for_Stages(x._1))
     println(Inflation_Ratio_for_Employers + "- коэффициенты для каждого работника")
 
-    val New_Salaries_List = Salaries_List.zip(Inflation_Ratio_for_Employers).map(x => if (x._2 > 1) x._1 * (x._2 - 1) else x._1 * (1 + x._2)).map(x => ((100.0 * x).toInt * 0.01))
+    val New_Salaries_List = Salaries_List.zip(Inflation_Ratio_for_Employers).map(x => if (x._2 > 1) x._1 * (x._2 - 1) else x._1 * (1 + x._2)).map(x => (100.0 * x).toInt * 0.01)
     println(New_Salaries_List + "- ура! Новые зарплаты")
 
   }
@@ -298,7 +305,8 @@ object Main {
     val Salaries = List[Double](100.0, 150.0, 200.0, 80.0, 120.0, 75.0, 50.0, 120.0, 90.0, 180.0)
     val Workers = (Full_Names zip Salaries).toMap
     println(Workers + "\t- сотрудники с зарплатами.")
-    return Workers
+
+    Workers
   }
 
   def Task_3l_star(Print_Task_Text: Boolean = true): Unit = {
@@ -340,20 +348,42 @@ object Main {
 
   }
 
-  def Recursive_Power(Number: Int=2, Pow:Int): Long = {
-    if (Pow == 0 || Pow == 1) Number
-    else Number * Recursive_Power(Number,Pow-1)
+  def Recursive_Power(Base: Int=2, Pow:Int): Long = {
+    if (Pow <= 1) Base
+    else Base * Recursive_Power(Base=Base,Pow=Pow-1)
 
   }
 
-  def Task_3o_star(Print_Task_Text: Boolean = true): Unit = {
+  def Task_3oi_star(Print_Task_Text: Boolean = true): Unit = {
     if (Print_Task_Text) println(
       """ *************************************************
         o. *Попробуйте написать функцию, которая вычисляет значение степени двойки:
            i. С помощью обычной рекурсии""")
 
     val N = 2
-    val P = 2
+    val P = 7
     println(s"$N в степени $P = " + Recursive_Power(Pow = P))
+  }
+
+  @tailrec
+  def Recursive_Power_Xvost(Das_Xvost:Long=2, Pow: Int, Base: Int = 2 ): Long = {
+    if (Pow <= 1) Das_Xvost
+    else Recursive_Power_Xvost(Das_Xvost=Base*Das_Xvost, Pow=Pow - 1, Base=Base)
+    //если базу зафиксировать (=2), то из параметров его можно убрать, а в коде заменить на 2
+  }
+
+  /**
+   * Решение задания 3.o.ii** из раздела 2.2.
+   * @param Print_Task_Text - надо ли печатать задание
+   */
+  def Task_3oii_2stars(Print_Task_Text: Boolean = true): Unit = {
+    if (Print_Task_Text) println(
+      """ *************************************************
+        o. *Попробуйте написать функцию, которая вычисляет значение степени двойки:
+          ii.**С помощью хвостовой рекурсии """)
+
+    val Bs = 2 // основание
+    val Pw = 7 // степеь
+    println(s"$Bs в степени $Pw = Хвостовая рекурсия = " + Recursive_Power_Xvost(Das_Xvost = Bs, Pow = Pw, Base=Bs))
   }
 }
