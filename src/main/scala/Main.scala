@@ -9,7 +9,8 @@ object Main {
 //    Task_3e()
 //    Task_3f()
 //    Task_3g()
-    Task_3h()
+//    Task_3h()
+    Task_3i()
 
 
   }
@@ -40,11 +41,11 @@ object Main {
     println("iv\t: "+ Str.concat(" Прости, Питон :("))
   }
 
-  def Do_Monthly_Income(Salary: Double, Prize :Double, Food_Compensation :Double) =
+  def Do_Monthly_Income(Salary: Double, Prize :Double, Food_Compensation :Double) : Double=
     ((Salary * (100+Prize)/100 + Food_Compensation ) / 12 *100).toInt*0.01
 
 
-  def Task_3b() = {
+  def Task_3b(): Unit = {
     println(
       """
         *************************************************
@@ -53,15 +54,15 @@ object Main {
         - значение годового дохода до вычета налогов,
         - размер премии – в процентах от годового дохода и
         - компенсация питания.""")
-    val Salary :Double = StdIn.readLine("Введи значение годового дохода до вычета налогов: " ).toDouble
-    val Prize :Double = StdIn.readLine("Введи размер премии – в процентах от годового дохода: " ).toDouble
-    val Food_Compensation :Double = StdIn.readLine("Введи значение компенсации питания: " ).toDouble
+    val Salary: Double = StdIn.readLine("Введи значение годового дохода до вычета налогов: ").toDouble
+    val Prize: Double = StdIn.readLine("Введи размер премии – в процентах от годового дохода: ").toDouble
+    val Food_Compensation: Double = StdIn.readLine("Введи значение компенсации питания: ").toDouble
 
     println(s"Оклад: $Salary")
     println(s"Премия: $Prize")
     println(s"Компенсация питания: $Food_Compensation")
-//    val Monthly_Income = ((Salary * (100+Prize)/100 + Food_Compensation ) / 12 *100).toInt*0.01
-    val Monthly_Income = Do_Monthly_Income (Salary, Prize, Food_Compensation)
+    //    val Monthly_Income = ((Salary * (100+Prize)/100 + Food_Compensation ) / 12 *100).toInt*0.01
+    val Monthly_Income = Do_Monthly_Income(Salary, Prize, Food_Compensation)
     println(s"Ежемесячный доход сотрудника: $Salary * (100+$Prize)/100 + $Food_Compensation: " + Monthly_Income + " руб.")
   }
 
@@ -125,8 +126,8 @@ object Main {
     println( New_Monthly_Incomes +  "\t- обновленнй список ежемесячных доходов сотрудников.")
 
 //    // минимальный и максимальный элемент в новом списке
-    val Max_Monthly_Income = New_Monthly_Incomes.reduceLeft(_ max _)
-    val Min_Monthly_Income = New_Monthly_Incomes.reduceLeft(_ min _)
+    val Max_Monthly_Income = New_Monthly_Incomes.max // reduceLeft(_ max _)
+    val Min_Monthly_Income = New_Monthly_Incomes.min // reduceLeft(_ min _)
 
     println(s"Самая высокая зарплата: $Max_Monthly_Income")
     println(s"Самая низкая зарплата: $Min_Monthly_Income")
@@ -134,7 +135,7 @@ object Main {
 
   }
 
-  def Task_3e(Print_Task_Text : Boolean = true) = {
+  def Task_3e(Print_Task_Text : Boolean = true):List[Double] = {
     if (Print_Task_Text) println(
       """
         *************************************************
@@ -152,14 +153,14 @@ object Main {
     val New_Salaries_List = Salaries.patch(Salaries.size, New_Employers_Salaries,0)
     println(New_Salaries_List + "- список окладов с добавленными сотрудниками")
 
-    // cортировка списка от меньшего к обольшему
+    // сортировка списка от меньшего к обольшему
     val New_Salaries_List_Sorted = New_Salaries_List.sorted(Ordering[Double])
     println(New_Salaries_List_Sorted + "- отсортированный список")
 
     New_Salaries_List_Sorted
   }
 
-  def Task_3f(Print_Task_Text : Boolean = true) = {
+  def Task_3f(Print_Task_Text : Boolean = true):List[Double] = {
     if (Print_Task_Text) println(
       """
         *************************************************
@@ -183,7 +184,7 @@ object Main {
     New_Salaries_List_Sorted
   }
 
-  def Task_3g() = {
+  def Task_3g():Unit = {
     println(
       """
         *************************************************
@@ -200,7 +201,7 @@ object Main {
     println(s"Ищем индексы в списке для сотрудников с зарплатами от $Middle_Min_Salary до $Middle_Max_Salary")
 
     // вариант с коллект
-    val Middle_Indexes_v1 = Salaries_List_Sorted.zipWithIndex.collect{ case(elm,indx) if ((Middle_Min_Salary <= elm) && (elm <= Middle_Max_Salary)) => indx }
+    val Middle_Indexes_v1 = Salaries_List_Sorted.zipWithIndex.collect{ case(elm,index) if (Middle_Min_Salary <= elm) && (elm <= Middle_Max_Salary) => index }
     println(Middle_Indexes_v1 + "- индексы искомых сотрудников")
 
     // вариант с фильтром и мап
@@ -209,7 +210,7 @@ object Main {
 
   }
 
-  def Task_3h()={
+  def Task_3h():Unit={
     println(
       """
         *************************************************
@@ -226,5 +227,59 @@ object Main {
     println(Crisis_Salaries_List_ + s" - кризисный список зарплат, инфл.уровень $Inflation_Rate%")
 
   }
+
+  def Task_3i(): Unit = {
+    println(
+      """
+        *************************************************
+        i. *Ваши сотрудники остались недовольны и просят индексацию на уровень рынка.
+        Попробуйте повторить ту же операцию, как и в предыдущем задании, но теперь вам нужно проиндексировать зарплаты
+        на процент отклонения от среднего по рынку с учетом уровня специалиста.
+        На вход вашей программе подается 3 значения – среднее значение зарплаты на рынке
+        для каждого уровня специалистов(junior, middle и senior)""")
+    //исходные данные
+    val Salaries_List = Task_3f(false)
+    //    println(Salaries_List_Sorted + " - исходный список зарплат")
+
+    //средние значения зарплат для каждого уровня специалистов(junior, middle и senior)
+    val Avg_Junior = 50.0
+    val Avg_Middle = 150.0
+    val Avg_Senior = 250.0
+    val Avg = List[Double] (Avg_Junior, Avg_Middle, Avg_Senior)
+    println(Avg + "- средние зарплаты по рынку ")
+    //из средних значений получаем интервалы по зарплатам для трех групп:разбиваем на пары, в них находим средние, добавляем слева ноль, справа - максимум
+    val Stages_Salaries_Tab = Avg.sliding(2).toList.map(_.sum/2).patch(Avg.size,Seq(1000.0),0).patch(0,Seq(0.0),0)
+    println(Stages_Salaries_Tab + "- границы по зарплатам")
+
+    val Stages_Salaries_Bounds = Stages_Salaries_Tab.sliding(2).toList
+    println(Stages_Salaries_Bounds + "- интервалы по зарплатам")
+
+    // каждому работнику сопоставляем его уровень в соотв. с интервалами
+    val Employers_Stages_Nums = Salaries_List.map(x => Stages_Salaries_Bounds.zipWithIndex.filter(x >= _._1(0)).filter(x < _._1(1) ).map(_._2).last )
+    println(Employers_Stages_Nums + "- распределение работников по группам")
+
+//    //    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => s"${x._1}/${Avg(Employers_Stages_Nums(x._2))}" )
+//    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => x._1/Avg(Employers_Stages_Nums(x._2)) )
+//    println(New_Salaries_List + "- новые зарплаты")
+    //какие группы образовались
+    val Stages_Nums_List = Employers_Stages_Nums.groupBy(x=>x).keys
+    //группировка зарплат по группам
+    val Salaries_by_Stages = Stages_Nums_List.map(x=> Employers_Stages_Nums.zipWithIndex.filter(_._1 == x).map(z => Salaries_List(z._2)))
+    println(Salaries_by_Stages + "-  зарплаты в отделе по уровню работников")
+    //средние по группам для имеющихся зарплат
+    val Avg_Salaries_by_Stages = Salaries_by_Stages.map(x=> x.sum / x.length).map(x=> (100.0*x).toInt*0.01 )
+    println(Avg_Salaries_by_Stages + "- средние зарплаты в отделе по уровню работников")
+    val Inflation_Ratio_for_Stages = Avg_Salaries_by_Stages.zip(Avg).map(x=> x._1/x._2).map(x=> ((100.0*x).toInt*0.01) ).toList
+    println(Inflation_Ratio_for_Stages + "- коэффициенты для групп работников")
+
+    val Inflation_Ratio_for_Employers = Employers_Stages_Nums.zipWithIndex.map(x => Inflation_Ratio_for_Stages( x._1 ) )
+    println(Inflation_Ratio_for_Employers + "- коэффициенты для каждого работника")
+
+    val New_Salaries_List = Salaries_List.zip(Inflation_Ratio_for_Employers).map(x=> if (x._2 > 1) x._1*1 else x._1*(1+x._2)).map(x=> ((100.0*x).toInt*0.01) )
+    println(New_Salaries_List + "- ура! Новые зарплаты")
+
+  }
+
+
 
 }
