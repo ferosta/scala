@@ -255,16 +255,16 @@ object Main {
     println(Stages_Salaries_Bounds + "- интервалы по зарплатам")
 
     // каждому работнику сопоставляем его уровень в соотв. с интервалами
-    val Employers_Stages_Nums = Salaries_List.map(x => Stages_Salaries_Bounds.zipWithIndex.filter(x >= _._1(0)).filter(x < _._1(1) ).map(_._2).last )
-    println(Employers_Stages_Nums + "- распределение работников по группам")
+    val Employers_Stages_Numbers = Salaries_List.map(x => Stages_Salaries_Bounds.zipWithIndex.filter(x >= _._1(0)).filter(x < _._1(1) ).map(_._2).last )
+    println(Employers_Stages_Numbers + "- распределение работников по группам")
 
-//    //    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => s"${x._1}/${Avg(Employers_Stages_Nums(x._2))}" )
-//    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => x._1/Avg(Employers_Stages_Nums(x._2)) )
+//    //    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => s"${x._1}/${Avg(Employers_Stages_Numbers(x._2))}" )
+//    val New_Salaries_List = Salaries_List.zipWithIndex.map(x => x._1/Avg(Employers_Stages_Numbers(x._2)) )
 //    println(New_Salaries_List + "- новые зарплаты")
     //какие группы образовались
-    val Stages_Nums_List = Employers_Stages_Nums.groupBy(x=>x).keys
+    val Stages_Numbers_List = Employers_Stages_Numbers.groupBy(x=>x).keys
     //группировка зарплат по группам
-    val Salaries_by_Stages = Stages_Nums_List.map(x=> Employers_Stages_Nums.zipWithIndex.filter(_._1 == x).map(z => Salaries_List(z._2)))
+    val Salaries_by_Stages = Stages_Numbers_List.map(x=> Employers_Stages_Numbers.zipWithIndex.filter(_._1 == x).map(z => Salaries_List(z._2)))
     println(Salaries_by_Stages + "-  зарплаты в отделе по уровню работников")
     //средние по группам для имеющихся зарплат
     val Avg_Salaries_by_Stages = Salaries_by_Stages.map(x=> x.sum / x.length).map(x=> (100.0*x).toInt*0.01 )
@@ -272,10 +272,10 @@ object Main {
     val Inflation_Ratio_for_Stages = Avg_Salaries_by_Stages.zip(Avg).map(x=> x._1/x._2).map(x=> ((100.0*x).toInt*0.01) ).toList
     println(Inflation_Ratio_for_Stages + "- коэффициенты для групп работников")
 
-    val Inflation_Ratio_for_Employers = Employers_Stages_Nums.zipWithIndex.map(x => Inflation_Ratio_for_Stages( x._1 ) )
+    val Inflation_Ratio_for_Employers = Employers_Stages_Numbers.zipWithIndex.map(x => Inflation_Ratio_for_Stages( x._1 ) )
     println(Inflation_Ratio_for_Employers + "- коэффициенты для каждого работника")
 
-    val New_Salaries_List = Salaries_List.zip(Inflation_Ratio_for_Employers).map(x=> if (x._2 > 1) x._1*1 else x._1*(1+x._2)).map(x=> ((100.0*x).toInt*0.01) )
+    val New_Salaries_List = Salaries_List.zip(Inflation_Ratio_for_Employers).map(x=> if (x._2 > 1) x._1 * (x._2 - 1) else x._1*(1+x._2)).map(x=> ((100.0*x).toInt*0.01) )
     println(New_Salaries_List + "- ура! Новые зарплаты")
 
   }
