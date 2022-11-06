@@ -18,15 +18,15 @@
 [info] Compiling 1 Scala source to D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\scala-2.13\classes...
 [debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
 [debug] Getting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10
-[debug] Running cached compiler 69f261a0, interfacing (CompilerInterface) with Scala compiler version 2.13.10
+[debug] Running cached compiler 190dadae, interfacing (CompilerInterface) with Scala compiler version 2.13.10
 [debug] Calling Scala compiler with arguments  (CompilerInterface):
 [debug] 	-bootclasspath
 [debug] 	C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\resources.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\rt.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\sunrsasign.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\jsse.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\jce.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\charsets.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\jfr.jar;C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\classes;C:\Users\amfedorov\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
 [debug] 	-classpath
 [debug] 	D:\amfedorov\fedorov\tmp\scala\zanyatie2_2\target\scala-2.13\classes
-[warn] 22 deprecations (since 2.13.0); re-run with -deprecation for details
+[warn] 23 deprecations (since 2.13.0); re-run with -deprecation for details
 [warn] one warning found
-[debug] Scala compilation took 0.4322086 s
+[debug] Scala compilation took 1.09846 s
 [debug] [naha] New invalidations:
 [debug] [naha] 	Set()
 [debug] [naha] Initial set of included nodes: Set()

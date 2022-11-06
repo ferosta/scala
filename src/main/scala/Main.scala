@@ -12,7 +12,8 @@ object Main {
 //    Task_3h()
 //    Task_3i_star()
 //      Task_3k_star()
-      Task_3l_star()
+//      Task_3l_star()
+    Task_3m_star()
 
 
   }
@@ -313,5 +314,17 @@ object Main {
 
   }
 
+  def Task_3m_star(Print_Task_Text: Boolean = true): Unit = {
+    println(
+      """ *************************************************
+          m.*Попробуйте запутать тех, кто может случайно наткнуться на эти данные –
+          удалите для каждого сотрудника имя, переведите строку в нижний регистр,
+          удалите гласные и
+          разверните оставшиеся символы справа налево(abc -> cb).""")
+    val Workers = Task_3k_star(Print_Task_Text = false)
 
+    val Anonymous_Workers = Workers.map{ case (name, salary) => ( name._1.toLowerCase.replaceAll("""[аеийоуыэюя]""","").reverse,salary)}
+    println(Anonymous_Workers + " - анонимизированный список работников")
+
+  }
 }
